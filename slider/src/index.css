@@ -122,7 +122,7 @@ p {
 .section-center {
   min-height: 350px;
   position: relative;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .section-center article {
   position: absolute;
@@ -172,6 +172,6 @@ article h4 {
   transform: translateX(100%);
 }
 .lastSlide {
-  /* opacity: 0; */
+  opacity: 0;
   transform: translateX(-100%);
 }
